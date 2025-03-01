@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDsD8jedFtqL-X46CHP4twgILrFIDPqamI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>46563670833</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.capstoneTest</string>
+	<key>PROJECT_ID</key>
+	<string>capstone-test-8a74f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>capstone-test-8a74f.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:46563670833:ios:89ee32e0e1e373f6f58e10</string>
+</dict>
+</plist>
